@@ -1,0 +1,97 @@
+Location,Cuisine,CostType,RestaurantName
+North,Indian,Cheap,The Moonshine Project
+North,Indian,Cheap,Pulp Pressery
+North,Indian,Medium,Kaidi Kitchen
+North,Indian,Medium,Fusion 9
+North,Indian,Expensive,President Dhaba
+North,Indian,Expensive,Tabla
+North,Chinese,Cheap,Kavanah
+North,Chinese,Cheap,Shanghai Chef 2
+North,Chinese,Medium,Kim Fung
+North,Chinese,Medium,Dine O China
+North,Chinese,Expensive,The Wonton
+North,Chinese,Expensive,Aromas of China
+North,Italian,Cheap,Little Italy
+North,Italian,Cheap,News Café
+North,Italian,Medium,Prost Brew shop
+North,Italian,Medium,Fat Pigeon
+North,Italian,Expensive,Ohri's 100 degrees
+North,Italian,Expensive,Churrolto
+North,Mexican,Cheap,La Cantina
+North,Mexican,Cheap,Habanero
+North,Mexican,Medium,Mexian Grill Subs
+North,Mexican,Medium,Quattro Ristorante
+North,Mexican,Expensive,Chili's
+North,Mexican,Expensive,Chama Gaucha
+South,Indian,Cheap,Repete Brewery & Kitchen
+South,Indian,Cheap,BLOCK 22
+South,Indian,Medium,Rotis
+South,Indian,Medium,Amnesia Lounge Bar
+South,Indian,Expensive,Cafe' Reboot
+South,Indian,Expensive,Diners Pavilion
+South,Chinese,Cheap,Ohri's Far East
+South,Chinese,Cheap,Chinese Pavilion
+South,Chinese,Medium,Chinese Bistro
+South,Chinese,Medium,WOK Republic
+South,Chinese,Expensive,Chung Hua Restaurant
+South,Chinese,Expensive,Mainland China
+South,Italian,Cheap,Headquarters
+South,Italian,Cheap,Tipsy Stories Rooftop Bar
+South,Italian,Medium,Raasta Cafe Hyderabad
+South,Italian,Medium,Vapour - Brew Pub
+South,Italian,Expensive,Repete Brewery & Kitchen
+South,Italian,Expensive,The Lal Street - Bar Exchange
+South,Mexican,Cheap,Indie Joes
+South,Mexican,Cheap,Molecule
+South,Mexican,Medium,Cuba Libre
+South,Mexican,Medium,By the bottle
+South,Mexican,Expensive,Cafe out of the box
+South,Mexican,Expensive,Cielito
+East,Indian,Cheap,MRP - The Dive Bar
+East,Indian,Cheap,Over The Moon Brew Company
+East,Indian,Medium,Social Monkey
+East,Indian,Medium,Zero40 Brewing
+East,Indian,Expensive,Tipsy Stories Rooftop Bar
+East,Indian,Expensive,Raasta Cafe Hyderabad
+East,Chinese,Cheap,Nanking CR
+East,Chinese,Cheap,Bowl o' China
+East,Chinese,Medium,Tim Tai
+East,Chinese,Medium,Hitec Nanking
+East,Chinese,Expensive,Beijing Bistro
+East,Chinese,Expensive,China Chef
+East,Italian,Cheap,Ga Cibo
+East,Italian,Cheap,Rotis
+East,Italian,Medium,Diners Pavilion
+East,Italian,Medium,Kaidi Kitchen
+East,Italian,Expensive,Ciclo Cafe
+East,Italian,Expensive,Fusion 9
+East,Mexican,Cheap,Chefdesk
+East,Mexican,Cheap,#LoL - Bar & Grill
+East,Mexican,Medium,Mexitaly
+East,Mexican,Medium,Quiznos
+East,Mexican,Expensive,Kaleido
+East,Mexican,Expensive,Taco bell
+West,Indian,Cheap,Free Flow - Traffic Bar
+West,Indian,Cheap,Heart cup coffee
+West,Indian,Medium,Fat Pigeon
+West,Indian,Medium,SKYHY
+West,Indian,Expensive,Indi Blaze
+West,Indian,Expensive,10 Downing Street
+West,Chinese,Cheap,Blue Diamond
+West,Chinese,Cheap,Chop Sticks
+West,Chinese,Medium,Tung Kein
+West,Chinese,Medium,Haiking Chinese Restaurant
+West,Chinese,Expensive,Golden Dragon - Taj Krishna
+West,Chinese,Expensive,Haiku
+West,Italian,Cheap,Mustang Terrace Lounge
+West,Italian,Cheap,Flechazo
+West,Italian,Medium,Smoky Pitara
+West,Italian,Medium,A'la Liberty
+West,Italian,Expensive,Blue Bottle Cafe
+West,Italian,Expensive,Eiffel Tower
+West,Mexican,Cheap,Fat Pigeon
+West,Mexican,Cheap,TGI Friday's
+West,Mexican,Medium,Vapour - Brew Pub
+West,Mexican,Medium,The Moonshine Project
+West,Mexican,Expensive,Uberdeq
+West,Mexican,Expensive,Mad about Mexico
